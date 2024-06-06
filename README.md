@@ -12,7 +12,7 @@
 </p> 
 
 # Allbridge Core SDK
-
+ 
 Provides an easy integration with the Allbridge Core ChainBridgeService for DApps in the browser or Node.js
 
 ## Table of Contents
